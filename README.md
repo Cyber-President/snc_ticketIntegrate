@@ -15,3 +15,9 @@ Consolidate tickets to the same destination / 同一送付先のチケットを�
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 0 | happy@wakame.com | AAAA-BBBB-CCCCC | https://drive.google.com/file/d/***sample1***/view?usp=drivesdk | DDDD-EEEE-FFFFF | https://drive.google.com/file/d/***sample2***/view?usp=drivesdk |  |
 | 1 | unhappy@konbu.com | GGGG-HHHH-IIIII | https://drive.google.com/file/d/***sample3***/view?usp=drivesdk |  |  |  |
+
+
+### References
+ - [pandasでcsvファイルの書き出し・追記（to_csv）](https://note.nkmk.me/python-pandas-to-csv/)
+ - [pandasで欠損値NaNを前後の値から補間するinterpolate](https://note.nkmk.me/python-pandas-interpolate/)
+ - [（Gスプレッドシート）改行をはさんで文字列を結合する](https://www.officeisyours.com/entry/2020/03/29/124906)
